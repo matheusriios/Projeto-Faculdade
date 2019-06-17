@@ -1,0 +1,14 @@
+Uma árvore binária tem uma condição especial em que cada nó pode ter no máximo dois filhos.
+
+Termos importantes
+A seguir estão os termos importantes em relação à árvore.
+Caminho - Caminho refere-se à sequência de nós ao longo das arestas de uma árvore.
+Raiz - O nó no topo da árvore é chamado de raiz. Existe apenas uma raiz por árvore e um caminho do nó raiz para qualquer nó.
+Pai - Qualquer nó, exceto o nó raiz, tem uma borda para cima para um nó chamado pai.
+Criança - O nó abaixo de um determinado nó conectado por sua borda para baixo é chamado de nó filho.
+Folha - O nó que não possui nenhum nó filho é chamado de nó folha.
+Subárvore - Subárvore representa os descendentes de um nó.
+Visiting - Visiting refere-se à verificação do valor de um nó quando o controle está no nó.
+Traversing - Traversing significa passar por nós em uma ordem específica.
+Níveis - O nível de um nó representa a geração de um nó. Se o nó raiz estiver no nível 0, seu próximo nó filho estará no nível 1, seu neto estará no nível 2 e assim por diante.
+Chaves - Chave representa um valor de um nó com base no qual uma operação de pesquisa deve ser executada para um nó.
